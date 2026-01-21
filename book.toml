@@ -1,0 +1,7 @@
+[book]
+title = "Git Demo"
+authors = ["ahto"]
+language = "en"
+
+[output.html]
+site-url='/git-demo/'
